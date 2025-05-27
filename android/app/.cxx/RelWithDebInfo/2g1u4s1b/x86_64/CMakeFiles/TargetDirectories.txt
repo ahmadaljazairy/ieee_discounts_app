@@ -1,0 +1,2 @@
+/home/ahmad_aljazairy/Courses/projects/ieee_discounts_application/android/app/.cxx/RelWithDebInfo/2g1u4s1b/x86_64/CMakeFiles/edit_cache.dir
+/home/ahmad_aljazairy/Courses/projects/ieee_discounts_application/android/app/.cxx/RelWithDebInfo/2g1u4s1b/x86_64/CMakeFiles/rebuild_cache.dir

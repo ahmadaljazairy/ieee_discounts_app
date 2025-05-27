@@ -1,0 +1,1 @@
+/home/ahmad_aljazairy/Courses/projects/ieee_discounts_application/build/app/intermediates/cxx/Debug/646b1b4w/obj/x86_64

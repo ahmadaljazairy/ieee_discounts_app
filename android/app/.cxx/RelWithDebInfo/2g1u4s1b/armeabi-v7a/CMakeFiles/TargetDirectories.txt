@@ -1,0 +1,2 @@
+/home/ahmad_aljazairy/Courses/projects/ieee_discounts_application/android/app/.cxx/RelWithDebInfo/2g1u4s1b/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/ahmad_aljazairy/Courses/projects/ieee_discounts_application/android/app/.cxx/RelWithDebInfo/2g1u4s1b/armeabi-v7a/CMakeFiles/rebuild_cache.dir

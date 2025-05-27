@@ -1,16 +1,12 @@
-# ieee_discounts_application
+📱 IEEEDiscountApp
+IEEEDiscountApp is a Flutter front-end application developed to display discounts offered by IEEE CS JU partners. The app focuses on clean code practices, modular architecture, and effective API consumption.
 
-IEEE Computer Society  JU Discounts Application ( IEEE CS JU Card )
+✨ Key Features
+🔗 API Integration: Fetches and displays discount data from a backend service.
 
-## Getting Started
+🧩 Modular Structure: Components are decoupled for easy testing and scalability.
 
-This project is a starting point for a Flutter application.
+👥 Audience: Displays the same discount information for both public users and IEEE CS JU team members.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎯 Purpose
+This application serves as a centralized platform to publicly showcase all discounts provided through IEEE CS JU partnerships. It offers a simple, user-friendly interface to view available offers — with no extra features or access levels for team members.

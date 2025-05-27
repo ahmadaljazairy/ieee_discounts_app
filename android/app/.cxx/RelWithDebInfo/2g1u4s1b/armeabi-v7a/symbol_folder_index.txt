@@ -1,0 +1,1 @@
+/home/ahmad_aljazairy/Courses/projects/ieee_discounts_application/build/app/intermediates/cxx/RelWithDebInfo/2g1u4s1b/obj/armeabi-v7a
